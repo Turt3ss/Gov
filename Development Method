@@ -1,78 +1,8 @@
-Native app development
-IOS, Android
+Development Method:
 
-Software Development Life Cycle (SDLC) Methodology: Kanban Style Scheduling
+Solo - Progressive Web Application (PWA) Development using Rapid Application Development (RAD) SDLC Methodology.
 
-KSS - a visual scheduling system that helps manage work by limiting work-in-progress (WIP) and focusing on continuous flow.
+Progressive Web Application (PWA):
 
-1. Visualize Work:
-Represent tasks as cards on a board, enabling transparent progress tracking and swift identification of bottlenecks.
 
-2. Limit Work-in-Progress (WIP):
-Establish upper limits on the amount of work in each stage to avoid overcapacity and optimize resource allocation.
-
-3. Focus on Flow:
-Prioritize continuous flow over batch processing, ensuring a steady workflow and minimizing inventory buildup.
-
-4. Pull-Based Production:
-Produce and deliver work based on demand, rather than pushing work through the system based on capacity.
-
-Components
-
-1. Kanban board:
-A physical or digital board with columns representing different stages of work (e.g., To-Do, In-Progress, Done).
-
-2. Cards:
-Represent individual tasks or work items, each with its own status and WIP limit.
-
-3. WIP Limits:
-Establish maximum quantities for each stage to regulate workflow and prevent overloading.
-
-4. Signals:
-Cards or signals indicating when to start or stop work, such as “Signal” Kanban cards for stock replenishment or “Withdrawal” cards for container movement.
-
-Benefits
-
-1. Improved Flow:
-Reduced lead times, increased productivity, and enhanced responsiveness to changing demand.
-
-2. Increased Transparency:
-Clear visibility into work status, enabling teams to identify and address bottlenecks.
-
-3. Reduced Inventory:
-Minimized WIP and inventory levels, reducing costs and improving quality.
-
-4. Flexibility:
-Kanban adapts to changing requirements and priorities, allowing for agile response to shifting market conditions.
-
-Tools and Software:
-
-1. Trello:
-Popular Kanban app with customizable boards, lists, and cards.
-
-2. Microsoft Planner:
-A Kanban-style project management tool integrated with Microsoft Office 365.
-
-3. Asana:
-A work management platform with Kanban boards and workflows.
-
-4. Custom built Kanban Board:
-Many organizations create their own Kanban boards using whiteboards, sticky notes, or digital tools.
-
-Implementation Tips:
-
-1. Start Small:
-
-Begin with a simple Kanban board and gradually add complexity as the team becomes familiar with the system.
-
-2. Define WIP Limits:
-
-Establish realistic WIP limits based on team capacity and workflow requirements.
-
-3. Monitor and Adjusts:
-
-Regularly review board performance, adjust WIP limits, and refine processes to optimize flow.
-
-4. Train and Engage:
-
-Educate team members on Kanban principles and involve them in the implementation process to ensure buy-in and adoption.
+Rapid Application Development (RAD):
