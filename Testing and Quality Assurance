@@ -65,6 +65,7 @@ Real-World Example:
 In a blog post management application, integration testing ensures that the newsletter module (maintained by a partner) works correctly with the articles in the application. This testing addresses issues such as:
 
 1. Who can certify that the newsletter module works correctly with the articles?
+
 2. How can we guarantee compatibility if one of the two parties updates its module?
 
 Android Integration Testing:
@@ -74,9 +75,13 @@ Android integration testing focuses on integrating units of code or software mod
 Best Practices:
 
 1. Set up an emulator or physical device for testing
+
 2. Execute tests to confirm the application works as intended
+
 3. Catch bugs and issues early in the development process
+
 4. Decide on the right integration testing approach based on the application type and development stage
+
 5. Follow a series of steps to perform Android integration testing seamlessly
 
 UI Testing:
@@ -88,12 +93,15 @@ Automated UI Testing
 Automated UI testing uses tools to launch an app, simulate user interactions, and verify the app’s response. This approach offers:
 
 1. Quick and reliable testing: Run tests repeatedly with minimal effort.
+
 2. Comprehensive coverage: Test various app scenarios and user flows.
+
 3. Early detection of issues: Identify problems early in the development process.
 
 Local and Instrumented Tests
 
 1. Local tests: Execute on your development machine or a server, simulating user interactions.
+
 2. Instrumented tests: Run on a device or emulator, injecting commands and reading app state.
 
 Manual UI Testing
