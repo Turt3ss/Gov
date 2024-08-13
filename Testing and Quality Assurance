@@ -1,1 +1,23 @@
-.
+Definition:
+
+Unit testing:
+
+Unit testing is a crucial aspect of app development that involves writing tests for individual components or units of code, usually written by developers. This type of testing ensures that each unit behaves as expected, reducing the likelihood of defects, code complexity, and bugs. Unit tests are typically narrow and well-defined, focusing on specific scenarios, such as testing the behavior of a function or class.
+
+In mobile app development, unit testing is essential for verifying the correctness and functional behavior of the app. It’s essential to run tests consistently throughout the development process to catch errors early on.
+
+Code coverage techniques used in unit testing include:
+
+1. Line coverage: measures the percentage of lines of code executed during testing
+
+2. Branch coverage: measures the percentage of branches (conditional statements) executed during testing
+
+3. Statement coverage: measures the percentage of statements (functions, methods, or code blocks) executed during testing
+
+
+Integration testing:
+
+
+
+UI testing:
+
