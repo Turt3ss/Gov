@@ -125,3 +125,11 @@ Best Practices:
 2. Use a testing framework: Leverage tools like Espresso, Appium, or Robot Framework to streamline testing.
 
 3. Integrate testing into the development cycle: Run tests regularly to catch issues early and improve app quality.
+
+Test on various devices and platforms (e.g., iOS, Android, emulator)
+
+Ensure the app meets quality and security standards
+
+Quality standards (Malaysia):
+
+Security standards (Malaysia):
