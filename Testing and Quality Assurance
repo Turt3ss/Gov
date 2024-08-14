@@ -133,3 +133,8 @@ Ensure the app meets quality and security standards
 Quality standards (Malaysia):
 
 Security standards (Malaysia):
+
+
+1. Conduct unit testing, integration testing, and UI testing
+2. Test on various devices and platforms (if applicable)
+3. Identify and fix bugs and issues
