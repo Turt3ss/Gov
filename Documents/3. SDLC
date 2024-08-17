@@ -66,10 +66,56 @@ Feedback is closely related to communication and simplicity. Flaws in the system
 
 d. Courage
 
-
+Several practices embody courage. One is the commandment to always design and code for today and not for tomorrow. This is an effort to avoid getting bogged down in design and requiring a lot of effort to implement anything else. Courage enables developers to feel comfortable with refactoring their code when necessary. This means reviewing the existing system and modifying it so that future changes can be implemented more easily. Another example of courage is knowing when to throw code away: courage to remove source code that is obsolete, no matter how much effort was used to create that source code. Also, courage means persistence: a programmer might be stuck on a complex problem for an entire day, then solve the problem quickly the next day, but only if they are persistent.
 
 e. Respect
 
+The respect value includes respect for others as well as self-respect. Programmers should never commit changes that break compilation, that make existing unit-tests fail, or that otherwise delay the work of their peers. Members respect their own work by always striving for high quality and seeking for the best design for the solution at hand through refactoring.
 
+Adopting the four earlier values leads to respect gained from others in the team. Nobody on the team should feel unappreciated or ignored. This ensures a high level of motivation and encourages loyalty toward the team and toward the goal of the project. This value is dependent upon the other values, and is oriented toward teamwork.
 
+5. Rules
+
+The first version of rules for XP was published in 1999 by Don Wells at the XP website. 29 rules are given in the categories of planning, managing, designing, coding, and testing. Planning, managing and designing are called out explicitly to counter claims that XP doesn't support those activities.
+
+Another version of XP rules was proposed by Ken Auer in XP/Agile Universe 2003. He felt XP was defined by its rules, not its practices (which are subject to more variation and ambiguity). He defined two categories: "Rules of Engagement" which dictate the environment in which software development can take place effectively, and "Rules of Play" which define the minute-by-minute activities and rules within the framework of the Rules of Engagement.
+
+Here are some of the rules (incomplete):
+
+Coding
+
+- The customer is always available
+- Code the unit test first
+- Only one pair integrates code at a time
+- Leave optimization until last
+- No overtime
+
+Testing
+
+- All code must have unit tests
+- All code must pass all unit tests before it can be released.
+
+- When a bug is found, tests are created before the bug is addressed (a bug is not an error in logic; it is a test that was not written)
+
+- Acceptance tests are run often and the results are published
+
+6. Principles
+
+The principles that form the basis of XP are based on the values just described and are intended to foster decisions in a system development project. The principles are intended to be more concrete than the values and more easily translated to guidance in a practical situation.
+
+7. Feedback
+
+Extreme programming sees feedback as most useful if it is done frequently and promptly. It stresses that minimal delay between an action and its feedback is critical to learning and making changes. Unlike traditional system development methods, contact with the customer occurs in more frequent iterations. The customer has clear insight into the system that is being developed, and can give feedback and steer the development as needed. With frequent feedback from the customer, a mistaken design decision made by the developer will be noticed and corrected quickly, before the developer spends much time implementing it.
+
+Unit tests contribute to the rapid feedback principle. When writing code, running the unit test provides direct feedback as to how the system reacts to the changes made. This includes running not only the unit tests that test the developer's code, but running in addition all unit tests against all the software, using an automated process that can be initiated by a single command. That way, if the developer's changes cause a failure in some other portion of the system that the developer knows little or nothing about, the automated all-unit-test suite will reveal the failure immediately, alerting the developer of the incompatibility of their change with other parts of the system, and the necessity of removing or modifying their change. Under traditional development practices, the absence of an automated, comprehensive unit-test suite meant that such a code change, assumed harmless by the developer, would have been left in place, appearing only during integration testing – or worse, only in production; and determining which code change caused the problem, among all the changes made by all the developers during the weeks or even months previous to integration testing, was a formidable task.
+
+8. Assuming simplicity
+
+This is about treating every problem as if its solution were "extremely simple". Traditional system development methods say to plan for the future and to code for reusability. Extreme programming rejects these ideas.
+
+The advocates of extreme programming say that making big changes all at once does not work. Extreme programming applies incremental changes: for example, a system might have small releases every three weeks. When many little steps are made, the customer has more control over the development process and the system that is being developed.
+
+9. Embracing change
+
+The principle of embracing change is about not working against changes but embracing them. For instance, if at one of the iterative meetings it appears that the customer's requirements have changed dramatically, programmers are to embrace this and plan the new requirements for the next iteration.
 
