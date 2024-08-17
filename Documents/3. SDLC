@@ -148,3 +148,7 @@ d. Programmer welfare
 - Sustainable pace
 
 JPMorgan Chase & Co. tried combining XP with the computer programming methods of capability maturity model integration (CMMI), and Six Sigma. They found that the three systems reinforced each other well, leading to better development, and did not mutually contradict.
+
+Unit test - testing source code
+Integration test - testing the whole software
+Acceptance test - test if requirements are met
