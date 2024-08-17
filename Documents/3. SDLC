@@ -84,7 +84,7 @@ Here are some of the rules (incomplete):
 
 Coding
 
-- The customer is always available
+- The client is always available
 - Code the unit test first
 - Only one pair integrates code at a time
 - Leave optimization until last
