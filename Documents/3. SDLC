@@ -1,4 +1,4 @@
-1. Wikipedia:
+1. Wikipedia:  https://en.m.wikipedia.org/wiki/Extreme_programming
 
 Extreme programming (XP) is a software development methodology intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, it advocates frequent releases in short development cycles, intended to improve productivity and introduce checkpoints at which new customer requirements can be adopted.
 
@@ -119,3 +119,32 @@ c. Embracing change
 
 The principle of embracing change is about not working against changes but embracing them. For instance, if at one of the iterative meetings it appears that the customer's requirements have changed dramatically, programmers are to embrace this and plan the new requirements for the next iteration.
 
+7. Practices
+
+Extreme programming has been described as having 12 practices, grouped into four areas:
+
+a. Fine-scale feedback
+
+- Pair programming
+- Planning game
+- Test-driven development
+- Whole team
+
+b. Continuous process
+
+- Continuous integration
+- Refactoring or design improvement
+- Small releases
+
+c. Shared understanding
+
+- Coding standards
+- Collective code ownership
+- Simple design
+- System metaphor
+
+d. Programmer welfare
+
+- Sustainable pace
+
+JPMorgan Chase & Co. tried combining XP with the computer programming methods of capability maturity model integration (CMMI), and Six Sigma. They found that the three systems reinforced each other well, leading to better development, and did not mutually contradict.
