@@ -82,7 +82,7 @@ Another version of XP rules was proposed by Ken Auer in XP/Agile Universe 2003. 
 
 Here are some of the rules (incomplete):
 
-Coding
+a. Coding
 
 - The client is always available
 - Code the unit test first
@@ -90,7 +90,7 @@ Coding
 - Leave optimization until last
 - No overtime
 
-Testing
+b. Testing
 
 - All code must have unit tests
 - All code must pass all unit tests before it can be released.
@@ -103,19 +103,19 @@ Testing
 
 The principles that form the basis of XP are based on the values just described and are intended to foster decisions in a system development project. The principles are intended to be more concrete than the values and more easily translated to guidance in a practical situation.
 
-7. Feedback
+a. Feedback
 
 Extreme programming sees feedback as most useful if it is done frequently and promptly. It stresses that minimal delay between an action and its feedback is critical to learning and making changes. Unlike traditional system development methods, contact with the customer occurs in more frequent iterations. The customer has clear insight into the system that is being developed, and can give feedback and steer the development as needed. With frequent feedback from the customer, a mistaken design decision made by the developer will be noticed and corrected quickly, before the developer spends much time implementing it.
 
 Unit tests contribute to the rapid feedback principle. When writing code, running the unit test provides direct feedback as to how the system reacts to the changes made. This includes running not only the unit tests that test the developer's code, but running in addition all unit tests against all the software, using an automated process that can be initiated by a single command. That way, if the developer's changes cause a failure in some other portion of the system that the developer knows little or nothing about, the automated all-unit-test suite will reveal the failure immediately, alerting the developer of the incompatibility of their change with other parts of the system, and the necessity of removing or modifying their change. Under traditional development practices, the absence of an automated, comprehensive unit-test suite meant that such a code change, assumed harmless by the developer, would have been left in place, appearing only during integration testing – or worse, only in production; and determining which code change caused the problem, among all the changes made by all the developers during the weeks or even months previous to integration testing, was a formidable task.
 
-8. Assuming simplicity
+b. Assuming simplicity
 
 This is about treating every problem as if its solution were "extremely simple". Traditional system development methods say to plan for the future and to code for reusability. Extreme programming rejects these ideas.
 
 The advocates of extreme programming say that making big changes all at once does not work. Extreme programming applies incremental changes: for example, a system might have small releases every three weeks. When many little steps are made, the customer has more control over the development process and the system that is being developed.
 
-9. Embracing change
+c. Embracing change
 
 The principle of embracing change is about not working against changes but embracing them. For instance, if at one of the iterative meetings it appears that the customer's requirements have changed dramatically, programmers are to embrace this and plan the new requirements for the next iteration.
 
