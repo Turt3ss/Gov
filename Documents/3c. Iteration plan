@@ -5,7 +5,9 @@ Based on Agile principles, an iteration plan outlines the work to be completed d
 Iteration 5 Plan
 
 Iteration Dates: August 15 - August 29, 2024
+
 Team Velocity: 120 story points (based on historical data)
+
 Prioritized Backlog Items:
 High Priority:
 User Story 1: Enhance search functionality (20 story points)
@@ -13,6 +15,7 @@ User Story 2: Fix critical bug in login feature (15 story points)
 Medium Priority:
 User Story 3: Implement new reporting dashboard (30 story points)
 User Story 4: Improve user interface for mobile devices (25 story points)
+
 Task Breakdown:
 User Story 1:
 Task 1: Research search algorithms (5 story points)
@@ -22,10 +25,12 @@ User Story 2:
 Task 1: Identify and reproduce bug (3 story points)
 Task 2: Develop fix for bug (8 story points)
 Task 3: Test and verify fix (4 story points)
+
 Resource Allocation:
 Developer 1: Tasks 1.1 (Research), 2.1 (Implement), and 3.1 (Test) for User Story 1
 Developer 2: Tasks 1.2 (Identify and reproduce), 2.2 (Develop fix), and 3.2 (Test) for User Story 2
 Developer 3: Tasks 1.3 (Implement), 2.3 (Test), and 3.3 (Test) for User Story 3 and 4
+
 Acceptance Criteria:
 Each task will have clear acceptance criteria defined
 Tasks will be reviewed and approved by the Product Owner before moving to the next stage
