@@ -7,7 +7,6 @@ Iteration 5 Plan
 Iteration Dates: August 15 - August 29, 2024
 
 Team Velocity: 120 story points (based on historical data)
-
 Prioritized Backlog Items:
 High Priority:
 User Story 1: Enhance search functionality (20 story points)
@@ -36,3 +35,17 @@ Each task will have clear acceptance criteria defined
 Tasks will be reviewed and approved by the Product Owner before moving to the next stage
 
 This example demonstrates a basic iteration plan, outlining the work to be completed, task breakdown, resource allocation, and acceptance criteria. Note that this is a simplified example and actual iteration plans may vary depending on the specific project and team requirements.
+
+Iteration plan (My own):
+
+From what I understand..
+
+1. Iteration Dates: [Beginning] - [End]
+2. Team Velocity: [Total Story Points]
+ - High priority: [User Story #][Story Points]
+ - Mid priority: [User Story #][Story Points]
+ - Low priority: [User Story #][Story Points]
+3. Task Breakdown:
+ - [User Story #]
+  - [Task Story #][Story Points]
+4. Resource Allocation:
