@@ -32,3 +32,25 @@ Observations: None
 
 This example demonstrates a simple acceptance test case for a banking application’s “Fund Transfer” feature. In a real-world scenario, you would have multiple test cases covering various scenarios, such as invalid recipient account numbers, insufficient funds, or transfer amount limits.
 
+Acceptance test (my example)
+
+Scenario: [Features of the software]
+
+Acceptance Criteria:
+[Algorithm of the software]
+
+Acceptance Test Case:
+# Test Case ID:
+Test Case Description: 
+[Explain what feature will do]
+Test Steps: [List the steps]
+Expected Results: [Success feature display]
+
+Acceptance Test Report:
+
+# Test Case ID:
+Test Result: [Pass or Fail]
+Test Description:
+[Explain features actually do]
+Test Steps: [List the steps]
+Observations: 
