@@ -1,1 +1,27 @@
-.
+Citing References in Software Engineering Documentation
+In a software engineering project, references are crucial for documenting and crediting the sources used in the development process. Here are some guidelines for writing references:
+
+Book References:
+Author(s) Last Name, Initial(s). (Year). Book Title. Publisher.
+Example: Pressman, R. S. (1997). Software Engineering: A Practitioner’s Approach. McGraw-Hill.
+Journal References:
+Author(s) Last Name, Initial(s). (Year). Article Title. Journal Name, Volume(Issue), pp. Page Numbers.
+Example: Bernus, P., & Nemes, L. (1996). A framework to define a generic enterprise reference architecture and methodology. Computer Integrated Manufacturing Systems, 9(3), 179-191.
+Conference Proceedings References:
+Author(s) Last Name, Initial(s). (Year). Paper Title. Conference Name, Location, pp. Page Numbers.
+Example: Henry, E., & Faller, B. (1995). Large-scale industrial reuse to reduce cost and cycle time. Proceedings of the 17th International Conference on Software Engineering, Seattle, WA, pp. 47-53.
+Online References:
+Author(s) Last Name, Initial(s). (Year). Article Title. URL (Date of Access).
+Example: Infragistics. (2003). Expense Application - Reference Application. Retrieved from http://www.infragistics.com/products/thinreference.asp (accessed on August 31, 2024).
+Design Pattern References:
+Pattern Name (Year). Description. Source (e.g., book, article, website).
+Example: Brooks, F. P. J. (1995). No Silver Bullet: Essence and Accidents of Software Engineering. Addison-Wesley.
+General Guidelines:
+
+Use a consistent citation style throughout the project.
+Include all authors’ names, even if there are multiple authors.
+Use the title of the book, article, or conference proceeding as it appears on the source material.
+Provide the publication date, volume, issue, and page numbers when available.
+For online sources, include the URL and date of access.
+Verify the accuracy of the references and ensure they are properly formatted.
+By following these guidelines, you can ensure that your references are clear, concise, and easily accessible, making it easier for others to build upon your work.
